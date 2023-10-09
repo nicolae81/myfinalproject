@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'myfinalproject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'finalproject',
+        'NAME': 'Finalproject',
         'USER': 'postgres',
         'PASSWORD': 'Cratita23',
         'HOST': 'localhost',
